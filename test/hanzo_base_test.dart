@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:hanzo/hanzo.dart';
+import 'package:hanzo_base/hanzo_base.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/testing.dart';
 import 'package:test/test.dart';

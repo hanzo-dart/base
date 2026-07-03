@@ -1,9 +1,9 @@
-name: hanzo
+name: hanzo_base
 description: Dart SDK for Hanzo Base — reactive backend records, realtime, and files with Hanzo IAM-native auth.
 version: 0.1.0
-repository: https://github.com/hanzoai/base
+repository: https://github.com/hanzo-dart/base
 homepage: https://hanzo.ai
-issue_tracker: https://github.com/hanzoai/base/issues
+issue_tracker: https://github.com/hanzo-dart/base/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
