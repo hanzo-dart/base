@@ -1,6 +1,6 @@
-# hanzo — Dart SDK for Hanzo Base
+# hanzo_base — Dart SDK for Hanzo Base
 
-[![pub package](https://img.shields.io/pub/v/hanzo.svg)](https://pub.dev/packages/hanzo)
+[![pub package](https://img.shields.io/pub/v/hanzo_base.svg)](https://pub.dev/packages/hanzo_base)
 
 Small, typed Dart client for [Hanzo Base](https://hanzo.ai), the reactive
 backend. Auth is [Hanzo IAM](https://hanzo.id)-native: the client holds the
@@ -14,11 +14,11 @@ apps need: auth, records/collections CRUD, realtime (SSE), and files.
 
 ```yaml
 dependencies:
-  hanzo: ^0.1.0
+  hanzo_base: ^0.1.0
 ```
 
 ```dart
-import 'package:hanzo/hanzo.dart';
+import 'package:hanzo_base/hanzo_base.dart';
 
 final base = HanzoBase('https://base.hanzo.ai');
 ```

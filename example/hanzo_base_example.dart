@@ -1,4 +1,4 @@
-import 'package:hanzo/hanzo.dart';
+import 'package:hanzo_base/hanzo_base.dart';
 
 Future<void> main() async {
   final base = HanzoBase('https://base.hanzo.ai');
